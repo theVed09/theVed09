@@ -2,8 +2,7 @@
 - 👀 I’m interested in Internship
 - 🌱 I’m currently learning MERN stack
 - 💞️ I’m looking to collaborate on frontend projects
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
+- 📫 How to reach me : vedantnirmal09@gmail.com
 - ⚡ Fun fact: ...
 
 <!---
